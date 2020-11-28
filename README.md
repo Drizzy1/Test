@@ -7,4 +7,7 @@
 # pkg install python2 
 # pip2 install request machanize
 # pkg install git
-# git clone https://github.com/Drizzy1/drizzy1
+# git clone https://github.com/Drizzy1/test
+# cd Test
+# python2 Test.py
+
