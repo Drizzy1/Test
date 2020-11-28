@@ -64,7 +64,7 @@ def jalan(z):
 \033[1;96mAuthor  \033[1;93m: \033[1;92mHellsing
 \033[1;96mInstagram \033[1;93m: \033[1: hellsingdrizzy
 \033[1;96mFacebook  \033[1;93m: \033[1: oluwa dami lare 
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Drizzy1/drizzy1
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Drizzy1/test
 \033[1;91m======================================="""
 
 def tik():
@@ -102,12 +102,12 @@ print  """\033[1;91m
 \033[1;96mAuthor  \033[1;93m: \033[1;92mHellsing
 \033[1;96mInstagram \033[1;93m: \033[1;92mhellsingdrizzy
 \033[1;96mFacebook  \033[1;93m: \033[1;92m oluwa dami lare 
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Drizzy1/drizzy1
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Drizzy1/test
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "komail"
-CorrectPassword = "khan"
+CorrectUsername = "Drizzy1"
+CorrectPassword = "drizzybaba12"
 
 loop = 'true'
 while (loop == 'true'):
